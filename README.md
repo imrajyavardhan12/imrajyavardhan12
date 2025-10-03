@@ -1,8 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imrajyavardhan12/imrajyavardhan12/main/assets/banner.png" alt="Rajyavardhan Singh | Software Engineer" />
-</p>
-
 # Hi there, I'm Rajyavardhan Singh 👋  
 
 ## 🚀 Associate Software Engineer | Data Engineering Enthusiast | Full-Stack Developer  
