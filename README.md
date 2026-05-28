@@ -73,12 +73,15 @@ I enjoy building **scalable solutions**, experimenting with **AI-driven apps**, 
 
 ---
 
-## 📜 Certifications  
-🏅 Databricks Certified Data Engineer Associate  
-☁️ Microsoft Azure Fundamentals (AZ-900)  
-📊 Microsoft Power BI Data Analyst (PL-300)  
-🐍 The Joy of Computing using Python – NPTEL  
-💾 MySQL Bootcamp – Udemy  
+## 📜 Certifications
+
+- Databricks UC Upgrade Delivery Specialization
+- Microsoft Certified: Azure Data Fundamentals
+- Microsoft Certified: Azure Fundamentals
+- Microsoft Certified: Power BI Data Analyst Associate
+- Databricks Certified Data Engineer Associate
+- The Joy of Computing using Python
+- MySQL Bootcamp
 
 ---
 
