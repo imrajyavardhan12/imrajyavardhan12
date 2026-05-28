@@ -80,7 +80,7 @@ I enjoy building **scalable solutions**, experimenting with **AI-driven apps**, 
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: Power BI Data Analyst Associate
 - Databricks Certified Data Engineer Associate
-- The Joy of Computing using Python
+- The Joy of Computing using Python - NPTEL
 - MySQL Bootcamp
 
 ---
