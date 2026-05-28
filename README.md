@@ -1,29 +1,60 @@
-# Hi there, I'm Rajyavardhan Singh 👋  
+# Hi, I'm Rajyavardhan Singh
 
-## 🚀 Associate Software Engineer | Data Engineering Enthusiast | Full-Stack Developer  
+Associate Software Engineer at **Tech Mahindra** focused on data engineering, full-stack products, and AI-driven tools.
 
-I’m a passionate software engineer currently working at **Tech Mahindra**, specializing in **data engineering** with **Python, Databricks, and Azure**.  
-I enjoy building **scalable solutions**, experimenting with **AI-driven apps**, and contributing to impactful **open-source projects**.  
-
----
-
-## 📍 Currently
-- 🏢 **Associate Software Engineer** @ Tech Mahindra  
-- 🔧 Building **data engineering pipelines** with *Python, Databricks, Azure Data Factory*  
-- 📊 Supporting **enterprise-scale analytics workflows**  
-- 🌱 Learning **cloud-native** & **distributed computing**  
+I build scalable data workflows with **Python, Databricks, and Azure**, and I like turning sharp product ideas into useful open-source projects.
 
 ---
 
-## 💼 Skills & Expertise
-- **Data Engineering** → Python, Databricks, Apache Spark, ADF  
-- **Cloud Platforms** → Microsoft Azure, Docker, CI/CD  
-- **Full-Stack Development** → React.js, Node.js, PostgreSQL, MongoDB  
-- **Problem Solving** → Algorithms, Data Structures, System Design  
+## Currently
+
+- Working as an **Associate Software Engineer** at **Tech Mahindra**
+- Building **data engineering pipelines** with Python, Databricks, and Azure Data Factory
+- Supporting **enterprise-scale analytics workflows**
+- Learning more about **cloud-native systems**, **distributed computing**, and AI-assisted products
 
 ---
 
-## 🛠️ Tech Stack
+## Pinned Projects
+
+| Project | What it does | Stack / Focus |
+| --- | --- | --- |
+| [spectre-ghostty-config](https://github.com/imrajyavardhan12/spectre-ghostty-config) | A beautiful, modern configuration generator for the Ghostty terminal. Includes live Ghostty preview, visual color editing, 200+ themes, font/keybind controls, import/export, shareable URLs, and dark mode. **170 stars**. | TypeScript, Next.js, Ghostty, terminal tooling |
+| [Omnimind](https://github.com/imrajyavardhan12/Omnimind) | Multi-model AI assistant interface for comparing responses from OpenAI, Anthropic, Gemini, and OpenRouter side by side with token/cost tracking and exports. | TypeScript, Next.js, Bun, AI apps |
+| [StackSolve-CodingPlatform](https://github.com/imrajyavardhan12/StackSolve-CodingPlatform) | Competitive coding platform built on a modern stack, with online problem solving and Judge0-based multi-language execution. | JavaScript, React, Node.js, PostgreSQL, Docker |
+| [VaultMind](https://github.com/imrajyavardhan12/VaultMind) | AI-powered personal knowledge vault and local-first CLI that turns clipped Obsidian source material into a maintained LLM-authored wiki. | Python, LLMs, Obsidian, knowledge systems |
+
+<p align="center">
+  <a href="https://github.com/imrajyavardhan12/spectre-ghostty-config">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imrajyavardhan12&repo=spectre-ghostty-config&theme=radical" alt="spectre-ghostty-config" />
+  </a>
+  <a href="https://github.com/imrajyavardhan12/Omnimind">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imrajyavardhan12&repo=Omnimind&theme=radical" alt="Omnimind" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/imrajyavardhan12/StackSolve-CodingPlatform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imrajyavardhan12&repo=StackSolve-CodingPlatform&theme=radical" alt="StackSolve-CodingPlatform" />
+  </a>
+  <a href="https://github.com/imrajyavardhan12/VaultMind">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imrajyavardhan12&repo=VaultMind&theme=radical" alt="VaultMind" />
+  </a>
+</p>
+
+---
+
+## Skills & Expertise
+
+- **Data Engineering**: Python, Databricks, Apache Spark, Azure Data Factory
+- **Cloud Platforms**: Microsoft Azure, Docker, CI/CD
+- **Full-Stack Development**: React.js, Node.js, PostgreSQL, MongoDB
+- **Problem Solving**: Algorithms, data structures, system design
+
+---
+
+## Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -35,72 +66,46 @@ I enjoy building **scalable solutions**, experimenting with **AI-driven apps**, 
 
 ---
 
-## 🏆 Featured Projects  
+## Earlier Builds
 
-### 🚀 [Omnimind – Multi-LLM Chat & Comparison Tool](https://github.com/imrajyavardhan12/Omnimind.git)  
-⚡ A **next-gen app** to chat with multiple LLMs side by side and optimize prompts automatically.  
-
-✨ **Key Features:**  
-- 🔹 *Single Chat* & *Compare Mode*  
-- 🔹 **Prompt Optimizer** → rewrites prompts based on the model for better responses  
-- 🔹 **Session Statistics** → tracks messages, tokens & estimated cost  
-- 🔹 **Per-Message Cost Tracking** → transparent usage insights  
-- 🔹 **Custom APIs** → supports OpenAI, OpenRouter, Anthropic, and more  
+- [Video Chat Application](https://meet-the-strangers-54a28db71007.herokuapp.com/) - Real-time peer-to-peer video communication with WebRTC and Socket.io.
+- [MoodSync - Mood Tracker](https://imrajyavardhan12.github.io/MoodSync---MoodTracker/) - Calendar-based mood tracking app built with vanilla JavaScript, HTML, CSS, and LocalStorage.
 
 ---
 
-### [StackSolve – Online Coding Platform](https://github.com/imrajyavardhan12/StackSolve-CodingPlatform)  
-🖥️ A **full-stack coding platform** similar to LeetCode  
-- Integrated **Judge0 API** for multi-language execution  
-- Built with **React, Node.js, PostgreSQL** in **Docker**  
-- Deployed on **Linode VPS**  
+## Certifications
+
+- Databricks Certified Data Engineer Associate
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Power BI Data Analyst (PL-300)
+- The Joy of Computing using Python - NPTEL
+- MySQL Bootcamp - Udemy
 
 ---
 
-### [Video Chat Application](https://meet-the-strangers-54a28db71007.herokuapp.com/)  
-📹 Real-time **peer-to-peer video communication**  
-- **WebRTC + Socket.io** for real-time signaling  
-- Supports multiple users concurrently  
-- Hosted on **Heroku**  
+## GitHub Stats
 
----
+![Rajyavardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrajyavardhan12&show_icons=true&theme=radical)
 
-### [MoodSync – Mood Tracker](https://imrajyavardhan12.github.io/MoodSync---MoodTracker/)  
-😊 Simple yet engaging **mood tracking app**  
-- Calendar-based mood logging  
-- Data stored in **LocalStorage**  
-- Built with **Vanilla JS, HTML, CSS**  
-
----
-
-## 📜 Certifications  
-🏅 Databricks Certified Data Engineer Associate  
-☁️ Microsoft Azure Fundamentals (AZ-900)  
-📊 Microsoft Power BI Data Analyst (PL-300)  
-🐍 The Joy of Computing using Python – NPTEL  
-💾 MySQL Bootcamp – Udemy  
-
----
-
-## 📈 GitHub Stats
-![Rajyavardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrajyavardhan12&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imrajyavardhan12&layout=compact&theme=radical)
 
 ---
 
-## 🎯 Focus Areas  
-- 🔍 Distributed computing & big data engineering  
-- 🌐 Scalable **data pipelines & analytics**  
-- 💡 AI-driven apps & **prompt engineering**  
-- 📚 Open-source contributions & continuous learning  
+## Focus Areas
+
+- Distributed computing and big data engineering
+- Scalable data pipelines and analytics
+- AI-driven apps and prompt engineering
+- Open-source contributions and continuous learning
 
 ---
 
-## 📫 Connect With Me  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srajyavardhan12@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imrajyavardhan12)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajyavardhan-singh-2669aa1a9/)  
+## Connect With Me
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srajyavardhan12@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imrajyavardhan12)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajyavardhan-singh-2669aa1a9/)
 
 ---
 
-⭐ From [imrajyavardhan12](https://github.com/imrajyavardhan12)  
+From [imrajyavardhan12](https://github.com/imrajyavardhan12)
