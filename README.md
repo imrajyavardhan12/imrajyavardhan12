@@ -83,8 +83,8 @@ I enjoy building **scalable solutions**, experimenting with **AI-driven apps**, 
 ---
 
 ## 📈 GitHub Stats
-![Rajyavardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=imrajyavardhan12&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imrajyavardhan12&layout=compact&theme=radical)
+![Rajyavardhan's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imrajyavardhan12&theme=radical)  
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imrajyavardhan12&theme=radical)
 
 ---
 
