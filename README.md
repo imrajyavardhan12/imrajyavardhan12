@@ -1,4 +1,10 @@
-<h1 align="center">RVS</h1>
+<div align="center">
+
+<a href="https://github.com/imrajyavardhan12">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+RVS;Open-Source+Builder" alt="RVS" />
+</a>
+
+</div>
 
 <p align="center"><b>Software Engineer — Data Engineering &amp; Full-Stack</b></p>
 
@@ -8,9 +14,10 @@ Currently at Tech Mahindra, working with Python, Databricks, and Azure.
 </p>
 
 <p align="center">
-<a href="mailto:srajyavardhan12@gmail.com">Email</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/rajyavardhan-singh-2669aa1a9/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://github.com/imrajyavardhan12">GitHub</a>
+<a href="mailto:srajyavardhan12@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/rajyavardhan-singh-2669aa1a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/imrajyavardhan12"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/srajyavardhan12/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 <p align="center">
@@ -42,29 +49,40 @@ computing, big data, and open source.
 
 ### Selected Work
 
-**[Spectre](https://github.com/imrajyavardhan12/spectre-ghostty-config)** — Ghostty Config Generator &nbsp;·&nbsp; ⭐ 127
-A visual configuration generator for the Ghostty terminal, with a live preview powered by
-libghostty compiled to WASM, 200+ themes, and a full keybind manager. &nbsp;[Live demo →](https://spectre-ghostty-config.vercel.app)
-<br>
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,wasm&theme=dark" alt="" height="32" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[Proompt](https://github.com/imrajyavardhan12/Proompt)** — AI Prompt Compiler (CLI + Desktop)
-Turns rough prompts into execution-ready tasks for coding agents and image models. A shared
-Rust core powers both a CLI and a Tauri desktop app, with a global hotkey and multi-provider support.
-<br>
-<img src="https://skillicons.dev/icons?i=rust,tauri,svelte,vite&theme=dark" alt="" height="32" />
+**[Spectre](https://github.com/imrajyavardhan12/spectre-ghostty-config)** ⭐ 127
+Visual config generator for the Ghostty terminal — live WASM preview, 200+ themes, keybind manager.
+<sub>`Next.js` · `TypeScript` · `WASM`</sub> · [demo →](https://spectre-ghostty-config.vercel.app)
 
-**[VaultMind](https://github.com/imrajyavardhan12/VaultMind)** — AI Knowledge Vault &nbsp;·&nbsp; ⭐ 14
-A local-first CLI that compiles clipped sources into a living, LLM-maintained wiki inside an
-Obsidian vault — markdown over databases, every change inspectable as a git diff.
-<br>
-<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="" height="32" />
+</td>
+<td width="50%" valign="top">
 
-**[LocalPorts](https://github.com/imrajyavardhan12/LocalPorts)** — TCP Port Inspector
-A fast local port inspector for macOS written in Zig, showing which processes are listening
-and where. Warm runs finish in ~3–5ms; ships via Homebrew.
-<br>
-<img src="https://skillicons.dev/icons?i=zig&theme=dark" alt="" height="32" />
+**[Proompt](https://github.com/imrajyavardhan12/Proompt)**
+AI prompt compiler turning rough input into agent-ready tasks. Shared Rust core powers a CLI + desktop app.
+<sub>`Rust` · `Tauri` · `Svelte`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[VaultMind](https://github.com/imrajyavardhan12/VaultMind)** ⭐ 14
+Local-first CLI that compiles clipped sources into a living, LLM-maintained Obsidian wiki.
+<sub>`Python` · `LLM`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[LocalPorts](https://github.com/imrajyavardhan12/LocalPorts)**
+Fast macOS TCP port inspector — shows listening processes in ~3–5ms. Ships via Homebrew.
+<sub>`Zig`</sub>
+
+</td>
+</tr>
+</table>
 
 <sub>More: <a href="https://github.com/imrajyavardhan12/Omnimind">Omnimind</a> (multi-LLM chat &amp; prompt optimizer) · <a href="https://github.com/imrajyavardhan12?tab=repositories">all repositories →</a></sub>
 
@@ -72,22 +90,40 @@ and where. Warm runs finish in ~3–5ms; ships via Homebrew.
 
 ### Certifications
 
-Databricks Certified Data Engineer Associate · Databricks UC Upgrade Delivery Specialization
-· Azure Data Fundamentals · Azure Fundamentals · Power BI Data Analyst Associate
+<p align="center">
+<img src="https://img.shields.io/badge/Databricks-Certified%20Data%20Engineer%20Associate-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks Data Engineer Associate" />
+<img src="https://img.shields.io/badge/Databricks-UC%20Upgrade%20Delivery-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks UC Upgrade Delivery" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Data%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure Data Fundamentals" />
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
+<img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Data Analyst Associate" />
+</p>
 
 <br>
 
 ### GitHub
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=imrajyavardhan12&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="github stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajyavardhan12&layout=compact&hide_border=true&cache_seconds=86400&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="top languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajyavardhan12&hide_border=true&background=00000000&stroke=c9d1d9&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajyavardhan12&hide_border=true&background=00000000&stroke=c9d1d9&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="streak stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imrajyavardhan12&hide_border=true&bg_color=00000000&color=c9d1d9&line=2dba4e&point=58a6ff&area=true&area_color=2dba4e&title_color=58a6ff" alt="contribution activity graph" />
 </p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/imrajyavardhan12/imrajyavardhan12/output/snake.svg" alt="contribution snake" />
 </p>
+
+<br>
+
+<div align="center">
+
+**कर्मण्येवाधिकारस्ते मा फलेषु कदाचन**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=58A6FF&center=true&vCenter=true&width=620&lines=karmany-evadhikaras-te+ma+phaleshu+kadachana" alt="shlok transliteration" />
+
+<sub><i>You have the right to act, but never to the fruits of action.</i><br>— Bhagavad Gita 2.47</sub>
+
+</div>
